@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+C:\Users\Asus\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
